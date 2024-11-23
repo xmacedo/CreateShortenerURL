@@ -24,9 +24,9 @@ With this project, you can:
 ## 🛠️ Tecnologias Utilizadas | Technologies Used
 
 <div>
-  <img src="https://d1.awsstatic.com/logos/aws-lambda-2.svg" alt="AWS Lambda" width="100"/>
-  <img src="https://d1.awsstatic.com/logos/aws-api-gateway.svg" alt="AWS API Gateway" width="100"/>
-  <img src="https://d1.awsstatic.com/logos/aws-s3.svg" alt="AWS S3" width="100"/>
+  <img src="imgs/lambda.png" alt="AWS Lambda" width="50"/>
+  <img src="imgs/api_gateway.png" alt="AWS API Gateway" width="50"/>
+  <img src="imgs/s3.png" alt="AWS S3" width="80"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="100"/>
 </div>
 
@@ -35,6 +35,12 @@ Este projeto utiliza os seguintes serviços e tecnologias:
 - **AWS Lambda**: Para execução de funções serverless e processamento das URLs.
 - **AWS S3**: Para armazenamento de dados estáticos e logs.
 - **Java**: Linguagem principal utilizada no desenvolvimento das funções.
+
+---
+## 🛠️ Arquitetura | Architecture
+<div align="center">
+  <img src="imgs/architecture.png" alt="Architecture" width="70%" />
+</div>
 
 ---
 
